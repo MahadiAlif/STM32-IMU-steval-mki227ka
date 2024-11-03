@@ -34,6 +34,7 @@ The purpose of this project is to establish SPI communication between the STM32 
 ## Software Requirements
 
 - **STM32CubeIDE** (Version 1.16.1 or compatible)
+- **STM32CubeMX** (Version 1.16.1 or compatible)
 - **arm-none-eabi-gcc** compiler for building the project
 - **Git** for version control
 
