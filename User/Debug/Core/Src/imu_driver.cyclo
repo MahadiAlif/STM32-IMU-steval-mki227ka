@@ -1,0 +1,2 @@
+../Core/Src/imu_driver.c:14:6:LSM6DSV16X_WriteReg	1
+../Core/Src/imu_driver.c:23:9:LSM6DSV16X_ReadReg	1
